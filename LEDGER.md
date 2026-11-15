@@ -24,3 +24,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 16 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #10: Write Hiree's Ideato project page | 1,188 | provisional | https://github.com/topc-social/hiree-tasks/issues/10 |
 | 17 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #9: Gig finder v0: daily contract gigs that pass the judge, sent on Telegram | 18 | provisional | https://github.com/topc-social/hiree-tasks/issues/9 |
 | 18 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #9: Gig finder v0: daily contract gigs that pass the judge, sent on Telegram | 1,782 | provisional | https://github.com/topc-social/hiree-tasks/issues/9 |
+| 19 | 2026-11-16 | Kamal Khatwani | Idea (1%) for #11: Gig finder reports in the Claude session, not on Telegram | 4 | provisional | https://github.com/topc-social/hiree-tasks/issues/11 |
+| 20 | 2026-11-16 | Kamal Khatwani (via Claude) | Work (99%) on #11: Gig finder reports in the Claude session, not on Telegram | 346 | provisional | https://github.com/topc-social/hiree-tasks/issues/11 |
