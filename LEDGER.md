@@ -16,3 +16,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 8 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #4: Run open-source resume skills over the Himalayas resume and propose fixes | 1,188 | provisional | https://github.com/topc-social/hiree-tasks/issues/4 |
 | 9 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #5: Back up the career brain hourly to a private repo | 4 | provisional | https://github.com/topc-social/hiree-tasks/issues/5 |
 | 10 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #5: Back up the career brain hourly to a private repo | 346 | provisional | https://github.com/topc-social/hiree-tasks/issues/5 |
+| 11 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #6: Gig judge skill: take, negotiate or skip a contract gig against your goals | 8 | provisional | https://github.com/topc-social/hiree-tasks/issues/6 |
+| 12 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #6: Gig judge skill: take, negotiate or skip a contract gig against your goals | 792 | provisional | https://github.com/topc-social/hiree-tasks/issues/6 |
