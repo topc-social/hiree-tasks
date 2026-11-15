@@ -14,3 +14,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 | 6 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #3: Find open-source resume skills to improve resumes written from the career brain | 792 | provisional | https://github.com/topc-social/hiree-tasks/issues/3 |
 | 7 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #4: Run open-source resume skills over the Himalayas resume and propose fixes | 12 | provisional | https://github.com/topc-social/hiree-tasks/issues/4 |
 | 8 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #4: Run open-source resume skills over the Himalayas resume and propose fixes | 1,188 | provisional | https://github.com/topc-social/hiree-tasks/issues/4 |
+| 9 | 2026-11-15 | Kamal Khatwani | Idea (1%) for #5: Back up the career brain hourly to a private repo | 4 | provisional | https://github.com/topc-social/hiree-tasks/issues/5 |
+| 10 | 2026-11-15 | Kamal Khatwani (via Claude) | Work (99%) on #5: Back up the career brain hourly to a private repo | 346 | provisional | https://github.com/topc-social/hiree-tasks/issues/5 |
